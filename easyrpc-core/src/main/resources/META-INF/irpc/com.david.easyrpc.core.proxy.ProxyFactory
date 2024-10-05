@@ -1,0 +1,2 @@
+jdk=com.david.easyrpc.core.proxy.jdk.JDKProxyFactory
+javassist=com.david.easyrpc.core.proxy.javassist.JavassistProxyFactory

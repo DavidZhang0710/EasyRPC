@@ -1,0 +1,4 @@
+serverLogFilterImpl=com.david.easyrpc.core.filter.server.ServerLogFilterImpl
+serverTokenFilterImpl=com.david.easyrpc.core.filter.server.ServerTokenFilterImpl
+serverServiceBeforeLimitFilterImpl=com.david.easyrpc.core.filter.server.ServerServiceBeforeLimitFilterImpl
+serverServiceAfterLimitFilterImpl=com.david.easyrpc.core.filter.server.ServerServiceAfterLimitFilterImpl

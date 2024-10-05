@@ -1,0 +1,4 @@
+kryo=com.david.easyrpc.core.serialize.KryoSerializeFactory
+jdk=com.david.easyrpc.core.serialize.JdkSerializeFactory
+hessian=com.david.easyrpc.core.serialize.HessianSerializeFactory
+fastJson=com.david.easyrpc.core.serialize.FastJsonSerializeFactory

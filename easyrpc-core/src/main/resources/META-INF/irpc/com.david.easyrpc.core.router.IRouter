@@ -1,0 +1,2 @@
+rotate=com.david.easyrpc.core.router.RotateRouterImpl
+random=com.david.easyrpc.core.router.RandomRouterImpl

@@ -1,0 +1,1 @@
+zookeeper=com.david.easyrpc.core.registry.zookeeper.ZookeeperRegister
